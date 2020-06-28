@@ -17,7 +17,7 @@ public interface Demo {
 		System.out.println("创建分支");
 		System.out.println("idea修改");
 		System.out.println("hello idea");
-		System.out.println("hello mac idea");
+		System.out.println("hello mac idea!");
 
 	}
 	

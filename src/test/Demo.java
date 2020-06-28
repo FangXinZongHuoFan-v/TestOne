@@ -12,9 +12,10 @@ public interface Demo {
 	String test();
 	
 	public static void main(String[] args) {
-		System.out.println("版本二");
+		System.out.println("ss版本二");
 		System.out.println("版本三");
 		System.out.println("创建分支");
+		System.out.println("idea修改");
 		
 	}
 	

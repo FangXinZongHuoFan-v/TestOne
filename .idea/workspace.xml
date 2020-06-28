@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3dcda29b-1fc9-4939-96f1-69143555f2a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3dcda29b-1fc9-4939-96f1-69143555f2a7" name="Default Changelist" comment="idea修改文件">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Demo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +12,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1dwSFrBl8rsOmzr0AHRNYBT8Y4w" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -27,6 +27,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
@@ -39,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593334561280</updated>
-      <workItem from="1593334565202" duration="1427000" />
+      <workItem from="1593334565202" duration="1542000" />
     </task>
     <task id="LOCAL-00001" summary="idea修改文件">
       <created>1593355807539</created>
@@ -48,7 +54,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593355807539</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="idea修改文件">
+      <created>1593355899900</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593355899900</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -63,18 +76,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="98" key="#Plugins/0.0.1440.900@0.0.1440.900" timestamp="1593334661780" />
-    <state x="233" y="23" key="CommitChangelistDialog2" timestamp="1593355807332">
+    <state x="233" y="23" key="CommitChangelistDialog2" timestamp="1593355989183">
       <screen x="0" y="23" width="1440" height="810" />
     </state>
-    <state x="233" y="23" key="CommitChangelistDialog2/0.23.1440.810@0.23.1440.810" timestamp="1593355807332" />
+    <state x="233" y="23" key="CommitChangelistDialog2/0.23.1440.810@0.23.1440.810" timestamp="1593355989183" />
+    <state x="170" y="93" key="DiffContextDialog" timestamp="1593355965935">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state x="170" y="93" key="DiffContextDialog/0.23.1440.810@0.23.1440.810" timestamp="1593355965935" />
     <state x="256" y="111" key="SettingsEditor" timestamp="1593334925571">
       <screen x="0" y="23" width="1440" height="810" />
     </state>
     <state x="256" y="111" key="SettingsEditor/0.23.1440.810@0.23.1440.810" timestamp="1593334925571" />
-    <state x="346" y="168" key="Vcs.Push.Dialog.v2" timestamp="1593355812996">
+    <state x="346" y="168" key="Vcs.Push.Dialog.v2" timestamp="1593355968205">
       <screen x="0" y="23" width="1440" height="810" />
     </state>
-    <state x="346" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.810@0.23.1440.810" timestamp="1593355812996" />
+    <state x="346" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.810@0.23.1440.810" timestamp="1593355968205" />
     <state x="474" y="169" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1593355742093">
       <screen x="0" y="23" width="1440" height="810" />
     </state>

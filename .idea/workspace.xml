@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3dcda29b-1fc9-4939-96f1-69143555f2a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dwSFrBl8rsOmzr0AHRNYBT8Y4w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3dcda29b-1fc9-4939-96f1-69143555f2a7" name="Default Changelist" comment="" />
+      <created>1593334561280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593334561280</updated>
+      <workItem from="1593334565202" duration="1427000" />
+    </task>
+    <task id="LOCAL-00001" summary="idea修改文件">
+      <created>1593355807539</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593355807539</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="idea修改文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea修改文件" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="98" key="#Plugins" timestamp="1593334661780">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="98" key="#Plugins/0.0.1440.900@0.0.1440.900" timestamp="1593334661780" />
+    <state x="233" y="23" key="CommitChangelistDialog2" timestamp="1593355807332">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state x="233" y="23" key="CommitChangelistDialog2/0.23.1440.810@0.23.1440.810" timestamp="1593355807332" />
+    <state x="256" y="111" key="SettingsEditor" timestamp="1593334925571">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state x="256" y="111" key="SettingsEditor/0.23.1440.810@0.23.1440.810" timestamp="1593334925571" />
+    <state x="346" y="168" key="Vcs.Push.Dialog.v2" timestamp="1593355812996">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state x="346" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.810@0.23.1440.810" timestamp="1593355812996" />
+    <state x="474" y="169" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1593355742093">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state x="474" y="169" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.23.1440.810@0.23.1440.810" timestamp="1593355742093" />
+    <state x="534" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593355892937">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state x="534" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.810@0.23.1440.810" timestamp="1593355892937" />
+  </component>
+</project>
